@@ -1,5 +1,5 @@
 def intruduction(name)
-  puts "Hi, my name is #{name}."
+  puts "Hi, my name is #{name}.\n"
 end
 
 def intruduction_with_language(name, language)
